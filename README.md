@@ -16,7 +16,7 @@ This FastAPI-based web service processes lab report images and extracts lab test
 - Python 3.8+
 - Tesseract OCR installed and available in system PATH
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
