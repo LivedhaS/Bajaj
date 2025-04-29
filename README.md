@@ -1,4 +1,4 @@
-# Bajaj
+# Bajaj Finserv Qualifier 2
 # Lab Report Extractor API
 
 This FastAPI-based web service processes lab report images and extracts lab test names, values, and reference ranges using OCR (Tesseract).
