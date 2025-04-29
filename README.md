@@ -63,8 +63,6 @@ sudo apt update
 sudo apt install tesseract-ocr
 ```
 
----
-
 ## Run the Application
 
 ```bash
@@ -74,7 +72,6 @@ uvicorn main:app --reload
 Then open your browser and go to:  
 👉 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
----
 
 ## API Endpoint
 
